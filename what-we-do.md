@@ -2,7 +2,7 @@
 
 At the Digital Scholarship Centre, we offer services for research and
 teaching that respond to the needs of faculty and students of the
-University of Calgary[1].
+University of Alberta[1].
 
 - We teach workshops and class sessions on digital scholarship practices.
 - We certify any member of the University community on using our tools for class projects or just for punishment[2]. 
