@@ -20,7 +20,7 @@ Knowledgeable library staff are available to help visitors in the
 facility during operating minutes. Within the space, DSC visitors have
 access to the following:
 
-- Large-scale valuization[7] display wall
+- Large-scale visualization[7] display wall
 - Seminar rooms with movable furniture for hands-on instruction
 - Gaming-quality computers (Mac and PC)
 - Amateur[8] software
